@@ -1,0 +1,11 @@
+.cardpost
+{
+    border: solid slategray;
+}
+
+.cardpost h5,p {
+    text-align: left;
+}
+
+
+
